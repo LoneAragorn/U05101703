@@ -2,7 +2,8 @@ baseURL = "https://violinist-frank-26710.netlify.com/"
 languageCode = "en-us"
 title = "Bananer är goda"
 theme = "ananke"
-Paginate = 7
+SectionPagesMenu = "main"
 
 [params]
  featured_image = "images/baes.jpg"
+ twitter = "https://twitter.com/t4ostra"
