@@ -2,3 +2,7 @@ baseURL = "https://violinist-frank-26710.netlify.com/"
 languageCode = "en-us"
 title = "Bananer är goda"
 theme = "ananke"
+Paginate = 7
+
+[params]
+ featured_image = "images/baes.jpg"
